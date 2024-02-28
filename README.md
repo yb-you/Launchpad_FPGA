@@ -1,2 +1,3 @@
 # Launchpad_FPGA_VerilogHDL
-XilinxISE_FPGA_VerilogHDL 소스코드입니다.
+XilinxISE 및 FPGA_VerilogHDL소스코드(.v)입니다.
+소스코드(.v)만 첨부합니다
