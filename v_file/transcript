@@ -1,0 +1,6 @@
+# Reading C:/intelFPGA/16.1/modelsim_ase/tcl/vsim/pref.tcl
+# error: Layout::Clairvoyance can't read "map()": no such element in array
+# can't read "map()": no such element in array
+#     while executing
+# "Layout::Clairvoyance"
+# OpenFile {C:/Users/yb/Desktop/git/À8Ü¤\$Ä/Ü$ $Ä \…/v_file/top.v}
